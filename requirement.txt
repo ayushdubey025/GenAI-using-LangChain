@@ -31,3 +31,6 @@ langchain-community
 
 # pypdf install
 pypdf
+
+# webbasaeloader
+beautifulsoup4
