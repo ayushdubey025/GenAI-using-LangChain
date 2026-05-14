@@ -34,3 +34,6 @@ pypdf
 
 # webbasaeloader
 beautifulsoup4
+
+# langchain experimental semantic based text splitters
+langchain-experimental sentence-transformers
